@@ -142,7 +142,7 @@ var div = L.DomUtil.create('div', 'info legend'),
 
 
 
-div.innerHTML +=  '<strong>Drop in number<br>of SNAP beneficiaries<br>per county (%)</strong><hr>' 
+div.innerHTML +=  '<strong>Drop in number<br>of SNAP beneficiaries<br>per state (%)</strong><hr>' 
 for (var i = 0; i < snap.length; i++) {
   div.innerHTML += 
   '<i style="background-color:' + getColor(snap[i]) + ';">&nbsp&nbsp&nbsp;</i> ' +
