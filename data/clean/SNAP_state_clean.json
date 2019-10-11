@@ -1,0 +1,767 @@
+[
+  {
+    "state_name": "Alabama",
+    "semester": "0118",
+    "snap_biannual_chan": -2.376225094749096
+  },
+  {
+    "state_name": "Alabama",
+    "semester": "0119",
+    "snap_biannual_chan": -2.849799902598094
+  },
+  {
+    "state_name": "Alabama",
+    "semester": "0718",
+    "snap_biannual_chan": -2.05258293614633
+  },
+  {
+    "state_name": "Alaska",
+    "semester": "0118",
+    "snap_biannual_chan": -2.85833997588244
+  },
+  {
+    "state_name": "Alaska",
+    "semester": "0119",
+    "snap_biannual_chan": "-.0891389409830801"
+  },
+  {
+    "state_name": "Alaska",
+    "semester": "0718",
+    "snap_biannual_chan": -9.12610328539718
+  },
+  {
+    "state_name": "Arizona",
+    "semester": "0118",
+    "snap_biannual_chan": -4.194038864692917
+  },
+  {
+    "state_name": "Arizona",
+    "semester": "0119",
+    "snap_biannual_chan": -2.123975569661263
+  },
+  {
+    "state_name": "Arizona",
+    "semester": "0718",
+    "snap_biannual_chan": -2.533185193848309
+  },
+  {
+    "state_name": "Arkansas",
+    "semester": "0118",
+    "snap_biannual_chan": -1.974530369726279
+  },
+  {
+    "state_name": "Arkansas",
+    "semester": "0119",
+    "snap_biannual_chan": "-.8293265263458971"
+  },
+  {
+    "state_name": "Arkansas",
+    "semester": "0718",
+    "snap_biannual_chan": -4.024118841260749
+  },
+  {
+    "state_name": "California",
+    "semester": "0118",
+    "snap_biannual_chan": "-.9373505428765139"
+  },
+  {
+    "state_name": "California",
+    "semester": "0119",
+    "snap_biannual_chan": -3.70826372389792
+  },
+  {
+    "state_name": "California",
+    "semester": "0718",
+    "snap_biannual_chan": -3.317401905077788
+  },
+  {
+    "state_name": "Colorado",
+    "semester": "0118",
+    "snap_biannual_chan": ".7200728044089999"
+  },
+  {
+    "state_name": "Colorado",
+    "semester": "0119",
+    "snap_biannual_chan": 2.980158578072767
+  },
+  {
+    "state_name": "Colorado",
+    "semester": "0718",
+    "snap_biannual_chan": -2.485528927854586
+  },
+  {
+    "state_name": "Connecticut",
+    "semester": "0118",
+    "snap_biannual_chan": -3.785114168120396
+  },
+  {
+    "state_name": "Connecticut",
+    "semester": "0119",
+    "snap_biannual_chan": -1.275678376998979
+  },
+  {
+    "state_name": "Connecticut",
+    "semester": "0718",
+    "snap_biannual_chan": -5.003699429555541
+  },
+  {
+    "state_name": "Delaware",
+    "semester": "0118",
+    "snap_biannual_chan": "-.0125112079571332"
+  },
+  {
+    "state_name": "Delaware",
+    "semester": "0119",
+    "snap_biannual_chan": 1.643168380745585
+  },
+  {
+    "state_name": "Delaware",
+    "semester": "0718",
+    "snap_biannual_chan": -5.2352053832732
+  },
+  {
+    "state_name": "District of Columbia",
+    "semester": "0118",
+    "snap_biannual_chan": ".9177728711659672"
+  },
+  {
+    "state_name": "District of Columbia",
+    "semester": "0119",
+    "snap_biannual_chan": "-.968803094386006"
+  },
+  {
+    "state_name": "District of Columbia",
+    "semester": "0718",
+    "snap_biannual_chan": -2.773091522564319
+  },
+  {
+    "state_name": "Florida",
+    "semester": "0118",
+    "snap_biannual_chan": -44.71010299534223
+  },
+  {
+    "state_name": "Florida",
+    "semester": "0119",
+    "snap_biannual_chan": -3.896116858220977
+  },
+  {
+    "state_name": "Florida",
+    "semester": "0718",
+    "snap_biannual_chan": -6.234525209967378
+  },
+  {
+    "state_name": "Georgia",
+    "semester": "0118",
+    "snap_biannual_chan": "-.1964560429603912"
+  },
+  {
+    "state_name": "Georgia",
+    "semester": "0119",
+    "snap_biannual_chan": -7.10648080040015
+  },
+  {
+    "state_name": "Georgia",
+    "semester": "0718",
+    "snap_biannual_chan": -2.115934370723016
+  },
+  {
+    "state_name": "Idaho",
+    "semester": "0118",
+    "snap_biannual_chan": ".8379179533513526"
+  },
+  {
+    "state_name": "Idaho",
+    "semester": "0119",
+    "snap_biannual_chan": "-.4435734809263403"
+  },
+  {
+    "state_name": "Idaho",
+    "semester": "0718",
+    "snap_biannual_chan": -7.302464021602384
+  },
+  {
+    "state_name": "Illinois",
+    "semester": "0118",
+    "snap_biannual_chan": -1.980407258772821
+  },
+  {
+    "state_name": "Illinois",
+    "semester": "0119",
+    "snap_biannual_chan": 3.157258702084875
+  },
+  {
+    "state_name": "Illinois",
+    "semester": "0718",
+    "snap_biannual_chan": -2.354188010812042
+  },
+  {
+    "state_name": "Indiana",
+    "semester": "0118",
+    "snap_biannual_chan": -2.668418627243407
+  },
+  {
+    "state_name": "Indiana",
+    "semester": "0119",
+    "snap_biannual_chan": ".4249642813779264"
+  },
+  {
+    "state_name": "Indiana",
+    "semester": "0718",
+    "snap_biannual_chan": -3.832607151768752
+  },
+  {
+    "state_name": "Iowa",
+    "semester": "0118",
+    "snap_biannual_chan": -1.330706020459504
+  },
+  {
+    "state_name": "Iowa",
+    "semester": "0119",
+    "snap_biannual_chan": -2.09484112529037
+  },
+  {
+    "state_name": "Iowa",
+    "semester": "0718",
+    "snap_biannual_chan": -5.127486055991326
+  },
+  {
+    "state_name": "Kansas",
+    "semester": "0118",
+    "snap_biannual_chan": -3.915814371126347
+  },
+  {
+    "state_name": "Kansas",
+    "semester": "0119",
+    "snap_biannual_chan": -4.502825678794997
+  },
+  {
+    "state_name": "Kansas",
+    "semester": "0718",
+    "snap_biannual_chan": -2.638524833040823
+  },
+  {
+    "state_name": "Kentucky",
+    "semester": "0118",
+    "snap_biannual_chan": -1.983061732730218
+  },
+  {
+    "state_name": "Kentucky",
+    "semester": "0119",
+    "snap_biannual_chan": -5.637764868418859
+  },
+  {
+    "state_name": "Kentucky",
+    "semester": "0718",
+    "snap_biannual_chan": -5.60209169058944
+  },
+  {
+    "state_name": "Louisiana",
+    "semester": "0118",
+    "snap_biannual_chan": -2.356105154704113
+  },
+  {
+    "state_name": "Louisiana",
+    "semester": "0119",
+    "snap_biannual_chan": -4.398157425110039
+  },
+  {
+    "state_name": "Louisiana",
+    "semester": "0718",
+    "snap_biannual_chan": -2.272420962901955
+  },
+  {
+    "state_name": "Maine",
+    "semester": "0118",
+    "snap_biannual_chan": -1.239237516674274
+  },
+  {
+    "state_name": "Maine",
+    "semester": "0119",
+    "snap_biannual_chan": -3.793531957614305
+  },
+  {
+    "state_name": "Maine",
+    "semester": "0718",
+    "snap_biannual_chan": -4.48355503581348
+  },
+  {
+    "state_name": "Maryland",
+    "semester": "0118",
+    "snap_biannual_chan": -2.121285312874577
+  },
+  {
+    "state_name": "Maryland",
+    "semester": "0119",
+    "snap_biannual_chan": -1.27476389470601
+  },
+  {
+    "state_name": "Maryland",
+    "semester": "0718",
+    "snap_biannual_chan": -2.657574601072599
+  },
+  {
+    "state_name": "Massachusetts",
+    "semester": "0118",
+    "snap_biannual_chan": ".5287924026137425"
+  },
+  {
+    "state_name": "Massachusetts",
+    "semester": "0119",
+    "snap_biannual_chan": -1.613440369052943
+  },
+  {
+    "state_name": "Massachusetts",
+    "semester": "0718",
+    "snap_biannual_chan": "-.4353104651267814"
+  },
+  {
+    "state_name": "Michigan",
+    "semester": "0118",
+    "snap_biannual_chan": -1.371424774738728
+  },
+  {
+    "state_name": "Michigan",
+    "semester": "0119",
+    "snap_biannual_chan": 82.96145931772716
+  },
+  {
+    "state_name": "Michigan",
+    "semester": "0718",
+    "snap_biannual_chan": -3.683768940930787
+  },
+  {
+    "state_name": "Minnesota",
+    "semester": "0118",
+    "snap_biannual_chan": -2.11277562699882
+  },
+  {
+    "state_name": "Minnesota",
+    "semester": "0119",
+    "snap_biannual_chan": -2.841496296881207
+  },
+  {
+    "state_name": "Minnesota",
+    "semester": "0718",
+    "snap_biannual_chan": -1.278885549143549
+  },
+  {
+    "state_name": "Mississippi",
+    "semester": "0118",
+    "snap_biannual_chan": -2.49989089660223
+  },
+  {
+    "state_name": "Mississippi",
+    "semester": "0119",
+    "snap_biannual_chan": -5.748655758115806
+  },
+  {
+    "state_name": "Mississippi",
+    "semester": "0718",
+    "snap_biannual_chan": -4.341167037723215
+  },
+  {
+    "state_name": "Missouri",
+    "semester": "0118",
+    "snap_biannual_chan": -1.076464605289718
+  },
+  {
+    "state_name": "Missouri",
+    "semester": "0119",
+    "snap_biannual_chan": "-.832316166146263"
+  },
+  {
+    "state_name": "Missouri",
+    "semester": "0718",
+    "snap_biannual_chan": -4.075201666406625
+  },
+  {
+    "state_name": "Montana",
+    "semester": "0118",
+    "snap_biannual_chan": ".0272925764192244"
+  },
+  {
+    "state_name": "Montana",
+    "semester": "0119",
+    "snap_biannual_chan": -4.191244403382843
+  },
+  {
+    "state_name": "Montana",
+    "semester": "0718",
+    "snap_biannual_chan": -4.017735334242833
+  },
+  {
+    "state_name": "Nebraska",
+    "semester": "0118",
+    "snap_biannual_chan": "-.4103232955135705"
+  },
+  {
+    "state_name": "Nebraska",
+    "semester": "0119",
+    "snap_biannual_chan": -2.68373096750989
+  },
+  {
+    "state_name": "Nebraska",
+    "semester": "0718",
+    "snap_biannual_chan": -3.330300694802601
+  },
+  {
+    "state_name": "Nevada",
+    "semester": "0118",
+    "snap_biannual_chan": "-.3144469658349136"
+  },
+  {
+    "state_name": "Nevada",
+    "semester": "0119",
+    "snap_biannual_chan": -2.95562005951403
+  },
+  {
+    "state_name": "Nevada",
+    "semester": "0718",
+    "snap_biannual_chan": "-.8390582996171236"
+  },
+  {
+    "state_name": "New Hampshire",
+    "semester": "0118",
+    "snap_biannual_chan": -1.376387848429617
+  },
+  {
+    "state_name": "New Hampshire",
+    "semester": "0119",
+    "snap_biannual_chan": -6.56791238031883
+  },
+  {
+    "state_name": "New Hampshire",
+    "semester": "0718",
+    "snap_biannual_chan": -4.562047933247171
+  },
+  {
+    "state_name": "New Jersey",
+    "semester": "0118",
+    "snap_biannual_chan": -1.801848866915989
+  },
+  {
+    "state_name": "New Jersey",
+    "semester": "0119",
+    "snap_biannual_chan": -2.052801695161366
+  },
+  {
+    "state_name": "New Jersey",
+    "semester": "0718",
+    "snap_biannual_chan": -3.490496506908325
+  },
+  {
+    "state_name": "New Mexico",
+    "semester": "0118",
+    "snap_biannual_chan": "-.492829696348418"
+  },
+  {
+    "state_name": "New Mexico",
+    "semester": "0119",
+    "snap_biannual_chan": "-.3192555571042699"
+  },
+  {
+    "state_name": "New Mexico",
+    "semester": "0718",
+    "snap_biannual_chan": -1.558120237050331
+  },
+  {
+    "state_name": "New York",
+    "semester": "0118",
+    "snap_biannual_chan": "-.067198252845424"
+  },
+  {
+    "state_name": "New York",
+    "semester": "0119",
+    "snap_biannual_chan": -1.881977937557333
+  },
+  {
+    "state_name": "New York",
+    "semester": "0718",
+    "snap_biannual_chan": -2.631464632034652
+  },
+  {
+    "state_name": "North Carolina",
+    "semester": "0118",
+    "snap_biannual_chan": 22.72452919432206
+  },
+  {
+    "state_name": "North Carolina",
+    "semester": "0119",
+    "snap_biannual_chan": ""
+  },
+  {
+    "state_name": "North Carolina",
+    "semester": "0718",
+    "snap_biannual_chan": ""
+  },
+  {
+    "state_name": "North Dakota",
+    "semester": "0118",
+    "snap_biannual_chan": ".269647772597037"
+  },
+  {
+    "state_name": "North Dakota",
+    "semester": "0119",
+    "snap_biannual_chan": -3.194900596614647
+  },
+  {
+    "state_name": "North Dakota",
+    "semester": "0718",
+    "snap_biannual_chan": -3.90311315293107
+  },
+  {
+    "state_name": "Ohio",
+    "semester": "0118",
+    "snap_biannual_chan": -1.050404853566389
+  },
+  {
+    "state_name": "Ohio",
+    "semester": "0119",
+    "snap_biannual_chan": "-.115544309211113"
+  },
+  {
+    "state_name": "Ohio",
+    "semester": "0718",
+    "snap_biannual_chan": -2.495565847854375
+  },
+  {
+    "state_name": "Oklahoma",
+    "semester": "0118",
+    "snap_biannual_chan": -1.609261059389833
+  },
+  {
+    "state_name": "Oklahoma",
+    "semester": "0119",
+    "snap_biannual_chan": "-.4662331061808245"
+  },
+  {
+    "state_name": "Oklahoma",
+    "semester": "0718",
+    "snap_biannual_chan": -1.802959494947265
+  },
+  {
+    "state_name": "Oregon",
+    "semester": "0118",
+    "snap_biannual_chan": "-.471435813146126"
+  },
+  {
+    "state_name": "Oregon",
+    "semester": "0119",
+    "snap_biannual_chan": -2.101211611084775
+  },
+  {
+    "state_name": "Oregon",
+    "semester": "0718",
+    "snap_biannual_chan": -4.283701253702221
+  },
+  {
+    "state_name": "Pennsylvania",
+    "semester": "0118",
+    "snap_biannual_chan": "-.3071673469032477"
+  },
+  {
+    "state_name": "Pennsylvania",
+    "semester": "0119",
+    "snap_biannual_chan": -1.885000490957778
+  },
+  {
+    "state_name": "Pennsylvania",
+    "semester": "0718",
+    "snap_biannual_chan": -1.628484425138066
+  },
+  {
+    "state_name": "Rhode Island",
+    "semester": "0118",
+    "snap_biannual_chan": -2.005869926906323
+  },
+  {
+    "state_name": "Rhode Island",
+    "semester": "0119",
+    "snap_biannual_chan": ""
+  },
+  {
+    "state_name": "Rhode Island",
+    "semester": "0718",
+    "snap_biannual_chan": ""
+  },
+  {
+    "state_name": "South Carolina",
+    "semester": "0118",
+    "snap_biannual_chan": -3.111330250369793
+  },
+  {
+    "state_name": "South Carolina",
+    "semester": "0119",
+    "snap_biannual_chan": -2.874918420914729
+  },
+  {
+    "state_name": "South Carolina",
+    "semester": "0718",
+    "snap_biannual_chan": -6.565213714397622
+  },
+  {
+    "state_name": "South Dakota",
+    "semester": "0118",
+    "snap_biannual_chan": "-.6406071938307001"
+  },
+  {
+    "state_name": "South Dakota",
+    "semester": "0119",
+    "snap_biannual_chan": -3.413739596558052
+  },
+  {
+    "state_name": "South Dakota",
+    "semester": "0718",
+    "snap_biannual_chan": -5.273707184535215
+  },
+  {
+    "state_name": "Tennessee",
+    "semester": "0118",
+    "snap_biannual_chan": -1.804796213505311
+  },
+  {
+    "state_name": "Tennessee",
+    "semester": "0119",
+    "snap_biannual_chan": ".2620392038989117"
+  },
+  {
+    "state_name": "Tennessee",
+    "semester": "0718",
+    "snap_biannual_chan": -6.766471800445784
+  },
+  {
+    "state_name": "Texas",
+    "semester": "0118",
+    "snap_biannual_chan": -36.10765898875297
+  },
+  {
+    "state_name": "Texas",
+    "semester": "0119",
+    "snap_biannual_chan": -1.99512520858881
+  },
+  {
+    "state_name": "Texas",
+    "semester": "0718",
+    "snap_biannual_chan": -5.424209189050377
+  },
+  {
+    "state_name": "Utah",
+    "semester": "0118",
+    "snap_biannual_chan": -1.659843767459346
+  },
+  {
+    "state_name": "Utah",
+    "semester": "0119",
+    "snap_biannual_chan": -3.591793642327301
+  },
+  {
+    "state_name": "Utah",
+    "semester": "0718",
+    "snap_biannual_chan": -6.073298970137076
+  },
+  {
+    "state_name": "Vermont",
+    "semester": "0118",
+    "snap_biannual_chan": ".3496690155883053"
+  },
+  {
+    "state_name": "Vermont",
+    "semester": "0119",
+    "snap_biannual_chan": 69.57443780244805
+  },
+  {
+    "state_name": "Vermont",
+    "semester": "0718",
+    "snap_biannual_chan": -6.556722968479855
+  },
+  {
+    "state_name": "Virgin Islands",
+    "semester": "0118",
+    "snap_biannual_chan": 13.16982032119574
+  },
+  {
+    "state_name": "Virgin Islands",
+    "semester": "0119",
+    "snap_biannual_chan": -13.67076132483898
+  },
+  {
+    "state_name": "Virgin Islands",
+    "semester": "0718",
+    "snap_biannual_chan": "-.2037303733885998"
+  },
+  {
+    "state_name": "Virginia",
+    "semester": "0118",
+    "snap_biannual_chan": "-.9949950829118204"
+  },
+  {
+    "state_name": "Virginia",
+    "semester": "0119",
+    "snap_biannual_chan": -2.081772073284338
+  },
+  {
+    "state_name": "Virginia",
+    "semester": "0718",
+    "snap_biannual_chan": -2.608792662207793
+  },
+  {
+    "state_name": "Washington",
+    "semester": "0118",
+    "snap_biannual_chan": "-.0876531974410621"
+  },
+  {
+    "state_name": "Washington",
+    "semester": "0119",
+    "snap_biannual_chan": 91.99412068969552
+  },
+  {
+    "state_name": "Washington",
+    "semester": "0718",
+    "snap_biannual_chan": -4.378447938230856
+  },
+  {
+    "state_name": "West Virginia",
+    "semester": "0118",
+    "snap_biannual_chan": -1.237398132697776
+  },
+  {
+    "state_name": "West Virginia",
+    "semester": "0119",
+    "snap_biannual_chan": "-.1662613450320261"
+  },
+  {
+    "state_name": "West Virginia",
+    "semester": "0718",
+    "snap_biannual_chan": -3.544061596391546
+  },
+  {
+    "state_name": "Wisconsin",
+    "semester": "0118",
+    "snap_biannual_chan": "-.9763493568527792"
+  },
+  {
+    "state_name": "Wisconsin",
+    "semester": "0119",
+    "snap_biannual_chan": -1.879621268479226
+  },
+  {
+    "state_name": "Wisconsin",
+    "semester": "0718",
+    "snap_biannual_chan": -3.466046385582977
+  },
+  {
+    "state_name": "Wyoming",
+    "semester": "0118",
+    "snap_biannual_chan": ".111063927089794"
+  },
+  {
+    "state_name": "Wyoming",
+    "semester": "0119",
+    "snap_biannual_chan": ".3367365215833695"
+  },
+  {
+    "state_name": "Wyoming",
+    "semester": "0718",
+    "snap_biannual_chan": -8.914412503670832
+  }
+]
