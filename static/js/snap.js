@@ -193,8 +193,8 @@ var overlayMaps = {
 };
 
 var myMap = L.map("map", {
-  center:[37, -95],
-  zoom:3,
+  center:[38, -95],
+  zoom:4,
   layers: [streetmap, snap_0918]
 });
 
@@ -214,7 +214,7 @@ var populationLegend = L.control({position: 'bottomleft'});
 populationLegend.onAdd = function (map) {
 var div = L.DomUtil.create('div', 'info legend');
   div.innerHTML +=
-  '<h2><strong><center>Drop in number of SNAP beneficiaries</center></strong></h2>';
+  '<h3><strong><center>Drop in number of SNAP beneficiaries</center></strong></h3>';
 return div;
 };
 populationLegend.addTo(myMap);
