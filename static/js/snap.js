@@ -214,7 +214,7 @@ var populationLegend = L.control({position: 'bottomleft'});
 populationLegend.onAdd = function (map) {
 var div = L.DomUtil.create('div', 'info legend');
   div.innerHTML +=
-  '<h3><strong><center>Drop in number of SNAP beneficiaries</center></strong></h3>';
+  '<h3><strong><center>SNAP beneficiaries</center></strong></h3>';
 return div;
 };
 populationLegend.addTo(myMap);
