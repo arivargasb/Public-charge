@@ -1,1532 +1,1302 @@
 [
   {
     "state_name": "Alabama",
-    "semester": "0318",
-    "snap_chan_t": "-.8699011104817189"
-  },
-  {
-    "state_name": "Alabama",
     "semester": "0319",
-    "snap_chan_t": -1.430599184305092
+    "wic_chan": -1.575858886625225
   },
   {
     "state_name": "Alabama",
     "semester": "0618",
-    "snap_chan_t": -1.05131571377014
+    "wic_chan": ".9567691416773716"
   },
   {
     "state_name": "Alabama",
     "semester": "0619",
-    "snap_chan_t": "-.8336143372821292"
+    "wic_chan": 1.726700162762729
   },
   {
     "state_name": "Alabama",
     "semester": "0918",
-    "snap_chan_t": "-.7243140094830847"
+    "wic_chan": 1.771537355246866
   },
   {
     "state_name": "Alabama",
     "semester": 1218,
-    "snap_chan_t": -1.594308039428405
-  },
-  {
-    "state_name": "Alaska",
-    "semester": "0318",
-    "snap_chan_t": -4.536225633041225
+    "wic_chan": -6.033229321527179
   },
   {
     "state_name": "Alaska",
     "semester": "0319",
-    "snap_chan_t": "-.0243323098314097"
+    "wic_chan": -2.193117934144684
   },
   {
     "state_name": "Alaska",
     "semester": "0618",
-    "snap_chan_t": "-.9829742685547371"
+    "wic_chan": 1.29244507108448
   },
   {
     "state_name": "Alaska",
     "semester": "0619",
-    "snap_chan_t": 1.185619581845998
+    "wic_chan": "-.4926730672056623"
   },
   {
     "state_name": "Alaska",
     "semester": "0918",
-    "snap_chan_t": -4.250275449901508
+    "wic_chan": -3.027491010323624
   },
   {
     "state_name": "Alaska",
     "semester": 1218,
-    "snap_chan_t": -1.695841179068736
+    "wic_chan": -4.389952153110044
   },
   {
-    "state_name": "Arizona",
-    "semester": "0318",
-    "snap_chan_t": -2.561721536752237
+    "state_name": "American Samoa",
+    "semester": "0319",
+    "wic_chan": -3.169014084507038
+  },
+  {
+    "state_name": "American Samoa",
+    "semester": "0618",
+    "wic_chan": -5.125780215623221
+  },
+  {
+    "state_name": "American Samoa",
+    "semester": "0619",
+    "wic_chan": "-.121212121212122"
+  },
+  {
+    "state_name": "American Samoa",
+    "semester": "0918",
+    "wic_chan": 1.814194577352479
+  },
+  {
+    "state_name": "American Samoa",
+    "semester": 1218,
+    "wic_chan": "-.6657528881926722"
   },
   {
     "state_name": "Arizona",
     "semester": "0319",
-    "snap_chan_t": -4.409278536304894
+    "wic_chan": "-.8512375926623905"
   },
   {
     "state_name": "Arizona",
     "semester": "0618",
-    "snap_chan_t": "-.1383911103216007"
+    "wic_chan": "-.9292228181667972"
   },
   {
     "state_name": "Arizona",
     "semester": "0619",
-    "snap_chan_t": ".5248017565212315"
+    "wic_chan": "-.3872960557579574"
   },
   {
     "state_name": "Arizona",
     "semester": "0918",
-    "snap_chan_t": ".780295026520661"
+    "wic_chan": ".0363953444288523"
   },
   {
     "state_name": "Arizona",
     "semester": 1218,
-    "snap_chan_t": -2.945192817999132
-  },
-  {
-    "state_name": "Arkansas",
-    "semester": "0318",
-    "snap_chan_t": -1.341372947086916
+    "wic_chan": -3.353975123737052
   },
   {
     "state_name": "Arkansas",
     "semester": "0319",
-    "snap_chan_t": "-.6179739441327103"
+    "wic_chan": -4.593418428981034
   },
   {
     "state_name": "Arkansas",
     "semester": "0618",
-    "snap_chan_t": -3.011961146343423
+    "wic_chan": ".2333351742419998"
   },
   {
     "state_name": "Arkansas",
     "semester": "0619",
-    "snap_chan_t": -3.634054785727248
+    "wic_chan": "-.9732879742490597"
   },
   {
     "state_name": "Arkansas",
     "semester": "0918",
-    "snap_chan_t": 0
+    "wic_chan": ".293400553741896"
   },
   {
     "state_name": "Arkansas",
     "semester": 1218,
-    "snap_chan_t": ".3247308623990808"
-  },
-  {
-    "state_name": "California",
-    "semester": "0318",
-    "snap_chan_t": "-.5938819519130001"
+    "wic_chan": -5.276747699491824
   },
   {
     "state_name": "California",
     "semester": "0319",
-    "snap_chan_t": -1.35118965857679
+    "wic_chan": -1.934161826143588
   },
   {
     "state_name": "California",
     "semester": "0618",
-    "snap_chan_t": -2.152059472649581
+    "wic_chan": "-.9921332643199499"
   },
   {
     "state_name": "California",
     "semester": "0619",
-    "snap_chan_t": 2.684268624301112
+    "wic_chan": -1.527071200329155
   },
   {
     "state_name": "California",
     "semester": "0918",
-    "snap_chan_t": -1.235801709893325
+    "wic_chan": -2.188522627504186
   },
   {
     "state_name": "California",
     "semester": 1218,
-    "snap_chan_t": -1.893289807158527
-  },
-  {
-    "state_name": "Colorado",
-    "semester": "0318",
-    "snap_chan_t": "-.88090521969868"
+    "wic_chan": -5.486013643633514
   },
   {
     "state_name": "Colorado",
     "semester": "0319",
-    "snap_chan_t": "-.9129001326660613"
+    "wic_chan": -1.558949297495416
   },
   {
     "state_name": "Colorado",
     "semester": "0618",
-    "snap_chan_t": -1.932281431733596
+    "wic_chan": "-.8755932758177321"
   },
   {
     "state_name": "Colorado",
     "semester": "0619",
-    "snap_chan_t": -1.618811531187581
+    "wic_chan": ".7409337999850996"
   },
   {
     "state_name": "Colorado",
     "semester": "0918",
-    "snap_chan_t": 3.080148545529382
+    "wic_chan": -1.599188612267521
   },
   {
     "state_name": "Colorado",
     "semester": 1218,
-    "snap_chan_t": ".1781588641714293"
-  },
-  {
-    "state_name": "Connecticut",
-    "semester": "0318",
-    "snap_chan_t": -2.940604585272477
+    "wic_chan": -2.147728226086754
   },
   {
     "state_name": "Connecticut",
     "semester": "0319",
-    "snap_chan_t": -1.330127385276514
+    "wic_chan": -2.301575329181305
   },
   {
     "state_name": "Connecticut",
     "semester": "0618",
-    "snap_chan_t": -1.759799355815617
+    "wic_chan": ".6506710044733577"
   },
   {
     "state_name": "Connecticut",
     "semester": "0619",
-    "snap_chan_t": "-.7845480866577659"
+    "wic_chan": "-.0772030440057359"
   },
   {
     "state_name": "Connecticut",
     "semester": "0918",
-    "snap_chan_t": ".0135064274704888"
+    "wic_chan": "-.7995746943115334"
   },
   {
     "state_name": "Connecticut",
     "semester": 1218,
-    "snap_chan_t": -1.474914537043659
-  },
-  {
-    "state_name": "Delaware",
-    "semester": "0318",
-    "snap_chan_t": -2.656878897207571
+    "wic_chan": -1.886428433621301
   },
   {
     "state_name": "Delaware",
     "semester": "0319",
-    "snap_chan_t": -6.088971002150667
+    "wic_chan": -2.616541353383461
   },
   {
     "state_name": "Delaware",
     "semester": "0618",
-    "snap_chan_t": -1.698909527176129
+    "wic_chan": 2.280467039649725
   },
   {
     "state_name": "Delaware",
     "semester": "0619",
-    "snap_chan_t": -3.356003842459176
+    "wic_chan": -3.668931439159973
   },
   {
     "state_name": "Delaware",
     "semester": "0918",
-    "snap_chan_t": "-.6472844564554103"
+    "wic_chan": 2.52690409655747
   },
   {
     "state_name": "Delaware",
     "semester": 1218,
-    "snap_chan_t": -1.934030900622252
-  },
-  {
-    "state_name": "District of Columbia",
-    "semester": "0318",
-    "snap_chan_t": -2.955855475889213
+    "wic_chan": -3.003943400603104
   },
   {
     "state_name": "District of Columbia",
     "semester": "0319",
-    "snap_chan_t": -90.64701587881
+    "wic_chan": ".0344916788824756"
   },
   {
     "state_name": "District of Columbia",
     "semester": "0618",
-    "snap_chan_t": 2.937235159900031
+    "wic_chan": -1.194078678334831
   },
   {
     "state_name": "District of Columbia",
     "semester": "0619",
-    "snap_chan_t": 939.8575470777637
+    "wic_chan": 1.965347814843543
   },
   {
     "state_name": "District of Columbia",
     "semester": "0918",
-    "snap_chan_t": "-.9666807402716193"
+    "wic_chan": ".9850177965400109"
   },
   {
     "state_name": "District of Columbia",
     "semester": 1218,
-    "snap_chan_t": -1.175070388759114
-  },
-  {
-    "state_name": "Florida",
-    "semester": "0318",
-    "snap_chan_t": -6.448930112362139
+    "wic_chan": -3.704918032786886
   },
   {
     "state_name": "Florida",
     "semester": "0319",
-    "snap_chan_t": -3.733745889954287
+    "wic_chan": -1.247365948281876
   },
   {
     "state_name": "Florida",
     "semester": "0618",
-    "snap_chan_t": 1.442901021011456
+    "wic_chan": "-.330967073415922"
   },
   {
     "state_name": "Florida",
     "semester": "0619",
-    "snap_chan_t": ".2984394053651585"
+    "wic_chan": -3.97236818242841
   },
   {
     "state_name": "Florida",
     "semester": "0918",
-    "snap_chan_t": -3.297821284876534
+    "wic_chan": ".1817718320162198"
   },
   {
     "state_name": "Florida",
     "semester": 1218,
-    "snap_chan_t": ".0861707063788408"
-  },
-  {
-    "state_name": "Georgia",
-    "semester": "0318",
-    "snap_chan_t": -3.41425757600422
+    "wic_chan": -5.434852357086751
   },
   {
     "state_name": "Georgia",
     "semester": "0319",
-    "snap_chan_t": -2.615963214566552
+    "wic_chan": "-.646164358465251"
   },
   {
     "state_name": "Georgia",
     "semester": "0618",
-    "snap_chan_t": ".2342026640633987"
+    "wic_chan": -2.302280768403375
   },
   {
     "state_name": "Georgia",
     "semester": "0619",
-    "snap_chan_t": -5.859132503065068
+    "wic_chan": ".7051869866836702"
   },
   {
     "state_name": "Georgia",
     "semester": "0918",
-    "snap_chan_t": -2.707893841662712
+    "wic_chan": "-.8512572089820036"
   },
   {
     "state_name": "Georgia",
     "semester": 1218,
-    "snap_chan_t": -3.357302671723761
-  },
-  {
-    "state_name": "Idaho",
-    "semester": "0318",
-    "snap_chan_t": "-.9358986160974525"
+    "wic_chan": -4.989793603991832
   },
   {
     "state_name": "Idaho",
     "semester": "0319",
-    "snap_chan_t": -1.328669468532218
+    "wic_chan": "-.7441949599156783"
   },
   {
     "state_name": "Idaho",
     "semester": "0618",
-    "snap_chan_t": -3.930739685293028
+    "wic_chan": -2.855882352941175
   },
   {
     "state_name": "Idaho",
     "semester": "0619",
-    "snap_chan_t": -3.011228079634443
+    "wic_chan": -2.181747972712056
   },
   {
     "state_name": "Idaho",
     "semester": "0918",
-    "snap_chan_t": -3.667902627760766
+    "wic_chan": -2.606800084773986
   },
   {
     "state_name": "Idaho",
     "semester": 1218,
-    "snap_chan_t": "-.0522133786741819"
-  },
-  {
-    "state_name": "Illinois",
-    "semester": "0318",
-    "snap_chan_t": 3.258003434178791
+    "wic_chan": -2.303531459835861
   },
   {
     "state_name": "Illinois",
     "semester": "0319",
-    "snap_chan_t": -3.80681538250992
+    "wic_chan": ".2679214320400636"
   },
   {
     "state_name": "Illinois",
     "semester": "0618",
-    "snap_chan_t": -2.449617354090716
+    "wic_chan": "-.9339297588103701"
   },
   {
     "state_name": "Illinois",
     "semester": "0619",
-    "snap_chan_t": ".8148148569692149"
+    "wic_chan": "-.3039462916882396"
   },
   {
     "state_name": "Illinois",
     "semester": "0918",
-    "snap_chan_t": -3.784760560712563
+    "wic_chan": "-.8822243239670069"
   },
   {
     "state_name": "Illinois",
     "semester": 1218,
-    "snap_chan_t": 1.132219964736181
-  },
-  {
-    "state_name": "Indiana",
-    "semester": "0318",
-    "snap_chan_t": "-.9707479990018975"
+    "wic_chan": -6.416761146480477
   },
   {
     "state_name": "Indiana",
     "semester": "0319",
-    "snap_chan_t": -2.879681739435758
+    "wic_chan": "-.3359935862395691"
   },
   {
     "state_name": "Indiana",
     "semester": "0618",
-    "snap_chan_t": -2.919471054837597
+    "wic_chan": "-.6364072172469148"
   },
   {
     "state_name": "Indiana",
     "semester": "0619",
-    "snap_chan_t": -9.975869507755009
+    "wic_chan": -1.467706078511677
   },
   {
     "state_name": "Indiana",
     "semester": "0918",
-    "snap_chan_t": ".1638815128343296"
+    "wic_chan": "-.7950103833810007"
   },
   {
     "state_name": "Indiana",
     "semester": 1218,
-    "snap_chan_t": -2.889894008428162
-  },
-  {
-    "state_name": "Iowa",
-    "semester": "0318",
-    "snap_chan_t": -1.561105776176352
+    "wic_chan": -3.177332957428813
   },
   {
     "state_name": "Iowa",
     "semester": "0319",
-    "snap_chan_t": -2.39888747247653
+    "wic_chan": -1.689869387895582
   },
   {
     "state_name": "Iowa",
     "semester": "0618",
-    "snap_chan_t": -2.195632906292799
+    "wic_chan": "-.0972648454662828"
   },
   {
     "state_name": "Iowa",
     "semester": "0619",
-    "snap_chan_t": -1.792298366433775
+    "wic_chan": ".8191986556739916"
   },
   {
     "state_name": "Iowa",
     "semester": "0918",
-    "snap_chan_t": -1.905389580967287
+    "wic_chan": "-.011750289560708"
   },
   {
     "state_name": "Iowa",
     "semester": 1218,
-    "snap_chan_t": -1.645760973239507
-  },
-  {
-    "state_name": "Kansas",
-    "semester": "0318",
-    "snap_chan_t": -1.497504159733776
+    "wic_chan": -1.521001913843467
   },
   {
     "state_name": "Kansas",
     "semester": "0319",
-    "snap_chan_t": -3.129535202980982
+    "wic_chan": -1.796480364999187
   },
   {
     "state_name": "Kansas",
     "semester": "0618",
-    "snap_chan_t": -1.209737134394673
+    "wic_chan": 1.361545909310946
   },
   {
     "state_name": "Kansas",
     "semester": "0619",
-    "snap_chan_t": "-.2201673271686522"
+    "wic_chan": -1.827270087526445
   },
   {
     "state_name": "Kansas",
     "semester": "0918",
-    "snap_chan_t": "-.4422249913335174"
+    "wic_chan": ".0537302740243994"
   },
   {
     "state_name": "Kansas",
     "semester": 1218,
-    "snap_chan_t": -3.357299479583287
-  },
-  {
-    "state_name": "Kentucky",
-    "semester": "0318",
-    "snap_chan_t": -1.130851650553166
+    "wic_chan": -3.112693424559454
   },
   {
     "state_name": "Kentucky",
     "semester": "0319",
-    "snap_chan_t": -4.772093843711412
+    "wic_chan": "-.8713639579001509"
   },
   {
     "state_name": "Kentucky",
     "semester": "0618",
-    "snap_chan_t": -2.883701563508179
+    "wic_chan": -1.853327431016671
   },
   {
     "state_name": "Kentucky",
     "semester": "0619",
-    "snap_chan_t": -2.332327492789621
+    "wic_chan": 1.376379893825219
   },
   {
     "state_name": "Kentucky",
     "semester": "0918",
-    "snap_chan_t": -5.21731161662693
+    "wic_chan": "-.8228844052881046"
   },
   {
     "state_name": "Kentucky",
     "semester": 1218,
-    "snap_chan_t": -2.138988499634842
-  },
-  {
-    "state_name": "Louisiana",
-    "semester": "0318",
-    "snap_chan_t": ".7350493315900763"
+    "wic_chan": -5.161192521475488
   },
   {
     "state_name": "Louisiana",
     "semester": "0319",
-    "snap_chan_t": "-.3733362924056682"
+    "wic_chan": -2.357340269874819
   },
   {
     "state_name": "Louisiana",
     "semester": "0618",
-    "snap_chan_t": -1.784705529876984
+    "wic_chan": "-.9583691602178313"
   },
   {
     "state_name": "Louisiana",
     "semester": "0619",
-    "snap_chan_t": -1.490897075257691
+    "wic_chan": "-.2291825821237548"
   },
   {
     "state_name": "Louisiana",
     "semester": "0918",
-    "snap_chan_t": -1.166636976803481
+    "wic_chan": "-.6782542639584777"
   },
   {
     "state_name": "Louisiana",
     "semester": 1218,
-    "snap_chan_t": -2.318641847468195
-  },
-  {
-    "state_name": "Maine",
-    "semester": "0318",
-    "snap_chan_t": ".7303025873410363"
+    "wic_chan": -4.456058564300546
   },
   {
     "state_name": "Maine",
     "semester": "0319",
-    "snap_chan_t": -1.015525579027743
+    "wic_chan": -1.004451546627094
   },
   {
     "state_name": "Maine",
     "semester": "0618",
-    "snap_chan_t": -4.641443282213221
+    "wic_chan": ".5612670186162738"
   },
   {
     "state_name": "Maine",
     "semester": "0619",
-    "snap_chan_t": ".4294052608572629"
+    "wic_chan": -1.689150236365733
   },
   {
     "state_name": "Maine",
     "semester": "0918",
-    "snap_chan_t": -2.551163272014512
+    "wic_chan": -1.204686118479226
   },
   {
     "state_name": "Maine",
     "semester": 1218,
-    "snap_chan_t": -1.912085303616162
-  },
-  {
-    "state_name": "Maryland",
-    "semester": "0318",
-    "snap_chan_t": -1.352161204836633
+    "wic_chan": -2.584181675802666
   },
   {
     "state_name": "Maryland",
     "semester": "0319",
-    "snap_chan_t": -1.704460272853991
+    "wic_chan": -1.517450682852806
   },
   {
     "state_name": "Maryland",
     "semester": "0618",
-    "snap_chan_t": -1.061348787706939
+    "wic_chan": ".4042694608437314"
   },
   {
     "state_name": "Maryland",
     "semester": "0619",
-    "snap_chan_t": "-.9147919489222223"
+    "wic_chan": ".4384814608399124"
   },
   {
     "state_name": "Maryland",
     "semester": "0918",
-    "snap_chan_t": ".1085140330159051"
+    "wic_chan": -2.03423622685005
   },
   {
     "state_name": "Maryland",
     "semester": 1218,
-    "snap_chan_t": -1.684301345150785
-  },
-  {
-    "state_name": "Massachusetts",
-    "semester": "0318",
-    "snap_chan_t": -1.245163396247351
+    "wic_chan": -3.132999443516971
   },
   {
     "state_name": "Massachusetts",
     "semester": "0319",
-    "snap_chan_t": "-.6099408103217074"
+    "wic_chan": "-.0787730848901602"
   },
   {
     "state_name": "Massachusetts",
     "semester": "0618",
-    "snap_chan_t": ".4900526241527592"
+    "wic_chan": "-.4502214127892423"
   },
   {
     "state_name": "Massachusetts",
     "semester": "0619",
-    "snap_chan_t": ".0291536303558271"
+    "wic_chan": ".0077861911899291"
   },
   {
     "state_name": "Massachusetts",
     "semester": "0918",
-    "snap_chan_t": "-.4599709560453413"
+    "wic_chan": -1.546219423859141
   },
   {
     "state_name": "Massachusetts",
     "semester": 1218,
-    "snap_chan_t": "-.3877796512987142"
-  },
-  {
-    "state_name": "Michigan",
-    "semester": "0318",
-    "snap_chan_t": -1.37281079814866
+    "wic_chan": -2.935378288387713
   },
   {
     "state_name": "Michigan",
     "semester": "0319",
-    "snap_chan_t": -48.62581283321872
+    "wic_chan": "-.5335294838788807"
   },
   {
     "state_name": "Michigan",
     "semester": "0618",
-    "snap_chan_t": -2.233606159745105
+    "wic_chan": "-.6848576105974669"
   },
   {
     "state_name": "Michigan",
     "semester": "0619",
-    "snap_chan_t": -1.67551282192212
+    "wic_chan": ".847971523933011"
   },
   {
     "state_name": "Michigan",
     "semester": "0918",
-    "snap_chan_t": -2.305198207667902
+    "wic_chan": -1.061292348965392
   },
   {
     "state_name": "Michigan",
     "semester": 1218,
-    "snap_chan_t": -2.58022415956416
-  },
-  {
-    "state_name": "Minnesota",
-    "semester": "0318",
-    "snap_chan_t": -2.759760730555916
+    "wic_chan": -1.840306288071192
   },
   {
     "state_name": "Minnesota",
     "semester": "0319",
-    "snap_chan_t": -2.879420960540024
+    "wic_chan": -1.607052896725436
   },
   {
     "state_name": "Minnesota",
     "semester": "0618",
-    "snap_chan_t": -1.336401618394623
+    "wic_chan": "-.3308448461619151"
   },
   {
     "state_name": "Minnesota",
     "semester": "0619",
-    "snap_chan_t": "-.676098074831033"
+    "wic_chan": 1.389585786698078
   },
   {
     "state_name": "Minnesota",
     "semester": "0918",
-    "snap_chan_t": ".8839639054046389"
+    "wic_chan": ".3568148771714963"
   },
   {
     "state_name": "Minnesota",
     "semester": 1218,
-    "snap_chan_t": -2.13902476578508
-  },
-  {
-    "state_name": "Mississippi",
-    "semester": "0318",
-    "snap_chan_t": -1.404500941912779
+    "wic_chan": -4.110228865016352
   },
   {
     "state_name": "Mississippi",
     "semester": "0319",
-    "snap_chan_t": -2.905992868305407
+    "wic_chan": -1.998514876837199
   },
   {
     "state_name": "Mississippi",
     "semester": "0618",
-    "snap_chan_t": -1.646365895493962
+    "wic_chan": "-.6100444528515991"
   },
   {
     "state_name": "Mississippi",
     "semester": "0619",
-    "snap_chan_t": "-.7122833304803455"
+    "wic_chan": ".2612773851359274"
   },
   {
     "state_name": "Mississippi",
     "semester": "0918",
-    "snap_chan_t": -3.786349314656123
+    "wic_chan": -1.005138697245089
   },
   {
     "state_name": "Mississippi",
     "semester": 1218,
-    "snap_chan_t": -2.343859180723495
-  },
-  {
-    "state_name": "Missouri",
-    "semester": "0318",
-    "snap_chan_t": -1.06910866715475
+    "wic_chan": -5.945471804669378
   },
   {
     "state_name": "Missouri",
     "semester": "0319",
-    "snap_chan_t": -2.399587288369631
+    "wic_chan": -3.337498264611971
   },
   {
     "state_name": "Missouri",
     "semester": "0618",
-    "snap_chan_t": -1.985415037877769
+    "wic_chan": "-.1772075632187953"
   },
   {
     "state_name": "Missouri",
     "semester": "0619",
-    "snap_chan_t": -1.998667076502336
+    "wic_chan": "-.0756422409253221"
   },
   {
     "state_name": "Missouri",
     "semester": "0918",
-    "snap_chan_t": -1.756904876837873
+    "wic_chan": ".0479309793896876"
   },
   {
     "state_name": "Missouri",
     "semester": 1218,
-    "snap_chan_t": -1.538588602881474
-  },
-  {
-    "state_name": "Montana",
-    "semester": "0318",
-    "snap_chan_t": "-.0588335607094148"
+    "wic_chan": -4.081940452109722
   },
   {
     "state_name": "Montana",
     "semester": "0319",
-    "snap_chan_t": ".099211868335658"
+    "wic_chan": -3.287433320927924
   },
   {
     "state_name": "Montana",
     "semester": "0618",
-    "snap_chan_t": -3.088447330028754
+    "wic_chan": -1.879210495213335
   },
   {
     "state_name": "Montana",
     "semester": "0619",
-    "snap_chan_t": -1.053197106255266
+    "wic_chan": "-.3142637249871738"
   },
   {
     "state_name": "Montana",
     "semester": "0918",
-    "snap_chan_t": -2.354940092084756
+    "wic_chan": -1.656227415080702
   },
   {
     "state_name": "Montana",
     "semester": 1218,
-    "snap_chan_t": -2.793104691838866
-  },
-  {
-    "state_name": "Nebraska",
-    "semester": "0318",
-    "snap_chan_t": "-.7092897251502306"
+    "wic_chan": -2.43738134607141
   },
   {
     "state_name": "Nebraska",
     "semester": "0319",
-    "snap_chan_t": ".6412349161959652"
+    "wic_chan": "-.8471521268925697"
   },
   {
     "state_name": "Nebraska",
     "semester": "0618",
-    "snap_chan_t": -1.808069194539608
+    "wic_chan": "-.5240399759457115"
   },
   {
     "state_name": "Nebraska",
     "semester": "0619",
-    "snap_chan_t": -1.945110904372516
+    "wic_chan": 1.205841362176563
   },
   {
     "state_name": "Nebraska",
     "semester": "0918",
-    "snap_chan_t": -1.633926714018252
+    "wic_chan": "-.7743681271230374"
   },
   {
     "state_name": "Nebraska",
     "semester": 1218,
-    "snap_chan_t": -2.28585585150094
-  },
-  {
-    "state_name": "Nevada",
-    "semester": "0318",
-    "snap_chan_t": "-.6989889664286153"
+    "wic_chan": -3.716382836751864
   },
   {
     "state_name": "Nevada",
     "semester": "0319",
-    "snap_chan_t": -1.614761653937324
+    "wic_chan": "-.3033563202172851"
   },
   {
     "state_name": "Nevada",
     "semester": "0618",
-    "snap_chan_t": ".1216858272471422"
+    "wic_chan": "-.7012025295717428"
   },
   {
     "state_name": "Nevada",
     "semester": "0619",
-    "snap_chan_t": ".2880039770839726"
+    "wic_chan": ".9517575671802891"
   },
   {
     "state_name": "Nevada",
     "semester": "0918",
-    "snap_chan_t": "-.5080012472432061"
+    "wic_chan": -2.415442996205241
   },
   {
     "state_name": "Nevada",
     "semester": 1218,
-    "snap_chan_t": -2.142120204878561
-  },
-  {
-    "state_name": "New Hampshire",
-    "semester": "0318",
-    "snap_chan_t": "-.8038001949980722"
+    "wic_chan": -3.739897879822807
   },
   {
     "state_name": "New Hampshire",
     "semester": "0319",
-    "snap_chan_t": -2.404231243563504
+    "wic_chan": "-.3898318849995919"
   },
   {
     "state_name": "New Hampshire",
     "semester": "0618",
-    "snap_chan_t": -2.576088323028214
+    "wic_chan": "-.5936890045543319"
   },
   {
     "state_name": "New Hampshire",
     "semester": "0619",
-    "snap_chan_t": -3.136968812693786
+    "wic_chan": -2.11985324092947
   },
   {
     "state_name": "New Hampshire",
     "semester": "0918",
-    "snap_chan_t": -3.696491207489183
+    "wic_chan": "-.3927022825820137"
   },
   {
     "state_name": "New Hampshire",
     "semester": 1218,
-    "snap_chan_t": -4.920089655508453
-  },
-  {
-    "state_name": "New Jersey",
-    "semester": "0318",
-    "snap_chan_t": "-.9682559455223005"
+    "wic_chan": "-.0574948665297725"
   },
   {
     "state_name": "New Jersey",
     "semester": "0319",
-    "snap_chan_t": -3.468515956161733
+    "wic_chan": ".8982797307404589"
   },
   {
     "state_name": "New Jersey",
     "semester": "0618",
-    "snap_chan_t": -1.869360929347674
+    "wic_chan": ".8194659094993284"
   },
   {
     "state_name": "New Jersey",
     "semester": "0619",
-    "snap_chan_t": -1.502215497676429
+    "wic_chan": ".381020155521461"
   },
   {
     "state_name": "New Jersey",
     "semester": "0918",
-    "snap_chan_t": -1.747147616281786
+    "wic_chan": -1.569284517486003
   },
   {
     "state_name": "New Jersey",
     "semester": 1218,
-    "snap_chan_t": -1.963715431134061
-  },
-  {
-    "state_name": "New Mexico",
-    "semester": "0318",
-    "snap_chan_t": "-.643154746996033"
+    "wic_chan": -3.565995914642095
   },
   {
     "state_name": "New Mexico",
     "semester": "0319",
-    "snap_chan_t": -1.396305815610388
+    "wic_chan": -1.470941562775296
   },
   {
     "state_name": "New Mexico",
     "semester": "0618",
-    "snap_chan_t": "-.7582366996207734"
+    "wic_chan": "-.8217021966067217"
   },
   {
     "state_name": "New Mexico",
     "semester": "0619",
-    "snap_chan_t": ".4810300390541533"
+    "wic_chan": ".306166684729603"
   },
   {
     "state_name": "New Mexico",
     "semester": "0918",
-    "snap_chan_t": ".4578877965060846"
+    "wic_chan": -10.28752800597461
   },
   {
     "state_name": "New Mexico",
     "semester": 1218,
-    "snap_chan_t": "-.9296312257587869"
-  },
-  {
-    "state_name": "New York",
-    "semester": "0318",
-    "snap_chan_t": "-.2410733804625975"
+    "wic_chan": -2.362122788761711
   },
   {
     "state_name": "New York",
     "semester": "0319",
-    "snap_chan_t": "-.8646608063932359"
+    "wic_chan": -1.158178185713876
   },
   {
     "state_name": "New York",
     "semester": "0618",
-    "snap_chan_t": -1.941814940256881
+    "wic_chan": "-.1208803187945917"
   },
   {
     "state_name": "New York",
     "semester": "0619",
-    "snap_chan_t": -2.182929816979196
+    "wic_chan": -4.929335538352153
   },
   {
     "state_name": "New York",
     "semester": "0918",
-    "snap_chan_t": -1.311525954509074
+    "wic_chan": -2.496446813774233
   },
   {
     "state_name": "New York",
     "semester": 1218,
-    "snap_chan_t": -1.130345710627401
-  },
-  {
-    "state_name": "North Carolina",
-    "semester": "0318",
-    "snap_chan_t": ""
+    "wic_chan": -4.315780832958138
   },
   {
     "state_name": "North Carolina",
     "semester": "0319",
-    "snap_chan_t": ""
+    "wic_chan": "-.5703909842698418"
   },
   {
     "state_name": "North Carolina",
     "semester": "0618",
-    "snap_chan_t": ""
+    "wic_chan": ".1667292664828457"
   },
   {
     "state_name": "North Carolina",
     "semester": "0619",
-    "snap_chan_t": ""
+    "wic_chan": 2.328893564651247
   },
   {
     "state_name": "North Carolina",
     "semester": "0918",
-    "snap_chan_t": ""
+    "wic_chan": 1.929285446447349
   },
   {
     "state_name": "North Carolina",
     "semester": 1218,
-    "snap_chan_t": ""
-  },
-  {
-    "state_name": "North Dakota",
-    "semester": "0318",
-    "snap_chan_t": "-.6872467178366648"
+    "wic_chan": -9.119743742737807
   },
   {
     "state_name": "North Dakota",
     "semester": "0319",
-    "snap_chan_t": -2.792443739586048
+    "wic_chan": -1.676914477361657
   },
   {
     "state_name": "North Dakota",
     "semester": "0618",
-    "snap_chan_t": -1.622821038379807
+    "wic_chan": ".3776899429073444"
   },
   {
     "state_name": "North Dakota",
     "semester": "0619",
-    "snap_chan_t": -1.319648093841641
+    "wic_chan": "-.7390562819784008"
   },
   {
     "state_name": "North Dakota",
     "semester": "0918",
-    "snap_chan_t": -3.025842954354308
+    "wic_chan": -1.855092754637733
   },
   {
     "state_name": "North Dakota",
     "semester": 1218,
-    "snap_chan_t": -2.260855853192201
+    "wic_chan": -4.154778887303856
   },
   {
-    "state_name": "Ohio",
-    "semester": "0318",
-    "snap_chan_t": -1.399746461018381
+    "state_name": "Northern Marianas",
+    "semester": "0319",
+    "wic_chan": ".4362416107382527"
+  },
+  {
+    "state_name": "Northern Marianas",
+    "semester": "0618",
+    "wic_chan": ""
+  },
+  {
+    "state_name": "Northern Marianas",
+    "semester": "0619",
+    "wic_chan": 3.775476110925502
+  },
+  {
+    "state_name": "Northern Marianas",
+    "semester": "0918",
+    "wic_chan": ""
+  },
+  {
+    "state_name": "Northern Marianas",
+    "semester": 1218,
+    "wic_chan": ""
   },
   {
     "state_name": "Ohio",
     "semester": "0319",
-    "snap_chan_t": -1.800894024422961
+    "wic_chan": -2.695044327072327
   },
   {
     "state_name": "Ohio",
     "semester": "0618",
-    "snap_chan_t": "-.6637804400109415"
+    "wic_chan": "-.2937581230401998"
   },
   {
     "state_name": "Ohio",
     "semester": "0619",
-    "snap_chan_t": ".2310205600304593"
+    "wic_chan": 3.518585927797524
   },
   {
     "state_name": "Ohio",
     "semester": "0918",
-    "snap_chan_t": "-.9731954373702778"
+    "wic_chan": -1.423206454582904
   },
   {
     "state_name": "Ohio",
     "semester": 1218,
-    "snap_chan_t": ".811143913554413"
-  },
-  {
-    "state_name": "Oklahoma",
-    "semester": "0318",
-    "snap_chan_t": -1.356675669298424
+    "wic_chan": -5.224944452091163
   },
   {
     "state_name": "Oklahoma",
     "semester": "0319",
-    "snap_chan_t": -1.728470966655027
+    "wic_chan": -2.532578926776419
   },
   {
     "state_name": "Oklahoma",
     "semester": "0618",
-    "snap_chan_t": "-.1113415190287292"
+    "wic_chan": "-.6438064712221303"
   },
   {
     "state_name": "Oklahoma",
     "semester": "0619",
-    "snap_chan_t": ".9985560702488572"
+    "wic_chan": 1.108520788624534
   },
   {
     "state_name": "Oklahoma",
     "semester": "0918",
-    "snap_chan_t": ".2442940625172252"
+    "wic_chan": "-.6618833083041342"
   },
   {
     "state_name": "Oklahoma",
     "semester": 1218,
-    "snap_chan_t": -1.133250610965408
-  },
-  {
-    "state_name": "Oregon",
-    "semester": "0318",
-    "snap_chan_t": -2.149181767530306
+    "wic_chan": -6.466965285554316
   },
   {
     "state_name": "Oregon",
     "semester": "0319",
-    "snap_chan_t": -1.541667009808367
+    "wic_chan": -1.589526676987219
   },
   {
     "state_name": "Oregon",
     "semester": "0618",
-    "snap_chan_t": -1.444173149357408
+    "wic_chan": -1.164264861532738
   },
   {
     "state_name": "Oregon",
     "semester": "0619",
-    "snap_chan_t": "-.7772155075070009"
+    "wic_chan": "-.6602009091697281"
   },
   {
     "state_name": "Oregon",
     "semester": "0918",
-    "snap_chan_t": -1.650182446706361
+    "wic_chan": "-.5884014309922803"
   },
   {
     "state_name": "Oregon",
     "semester": 1218,
-    "snap_chan_t": -1.171791729926497
-  },
-  {
-    "state_name": "Pennsylvania",
-    "semester": "0318",
-    "snap_chan_t": "-.5391718146296687"
+    "wic_chan": -3.421090013731709
   },
   {
     "state_name": "Pennsylvania",
     "semester": "0319",
-    "snap_chan_t": -1.125453743596705
+    "wic_chan": -2.168384947465951
   },
   {
     "state_name": "Pennsylvania",
     "semester": "0618",
-    "snap_chan_t": "-.8806294442981311"
+    "wic_chan": ".2753004860701624"
   },
   {
     "state_name": "Pennsylvania",
     "semester": "0619",
-    "snap_chan_t": "-.439694289807091"
+    "wic_chan": ".6674524975316842"
   },
   {
     "state_name": "Pennsylvania",
     "semester": "0918",
-    "snap_chan_t": "-.5397146985070655"
+    "wic_chan": -1.275498393473895
   },
   {
     "state_name": "Pennsylvania",
     "semester": 1218,
-    "snap_chan_t": -1.511387163561073
-  },
-  {
-    "state_name": "Rhode Island",
-    "semester": "0318",
-    "snap_chan_t": ""
+    "wic_chan": -3.772293060837839
   },
   {
     "state_name": "Rhode Island",
     "semester": "0319",
-    "snap_chan_t": ""
+    "wic_chan": "-.9218907140462584"
   },
   {
     "state_name": "Rhode Island",
     "semester": "0618",
-    "snap_chan_t": ""
+    "wic_chan": 1.548483554036739
   },
   {
     "state_name": "Rhode Island",
     "semester": "0619",
-    "snap_chan_t": ""
+    "wic_chan": ".7556533017538003"
   },
   {
     "state_name": "Rhode Island",
     "semester": "0918",
-    "snap_chan_t": ""
+    "wic_chan": -3.328425701966553
   },
   {
     "state_name": "Rhode Island",
     "semester": 1218,
-    "snap_chan_t": ""
-  },
-  {
-    "state_name": "South Carolina",
-    "semester": "0318",
-    "snap_chan_t": "-.7120104093874424"
+    "wic_chan": -3.149306499864024
   },
   {
     "state_name": "South Carolina",
     "semester": "0319",
-    "snap_chan_t": -2.632379196013424
+    "wic_chan": "-.8715719925494692"
   },
   {
     "state_name": "South Carolina",
     "semester": "0618",
-    "snap_chan_t": -4.331837037214137
+    "wic_chan": -2.12759046319756
   },
   {
     "state_name": "South Carolina",
     "semester": "0619",
-    "snap_chan_t": "-.8528236876438777"
+    "wic_chan": "-.9761401103770995"
   },
   {
     "state_name": "South Carolina",
     "semester": "0918",
-    "snap_chan_t": -3.015686819666397
+    "wic_chan": -3.068821700795421
   },
   {
     "state_name": "South Carolina",
     "semester": 1218,
-    "snap_chan_t": "-.5469374081995548"
-  },
-  {
-    "state_name": "South Dakota",
-    "semester": "0318",
-    "snap_chan_t": -1.870740724243913
+    "wic_chan": -2.968534222029473
   },
   {
     "state_name": "South Dakota",
     "semester": "0319",
-    "snap_chan_t": "-.9152426853609841"
+    "wic_chan": -2.588846000266209
   },
   {
     "state_name": "South Dakota",
     "semester": "0618",
-    "snap_chan_t": -2.588398166220329
+    "wic_chan": ".0828078221542849"
   },
   {
     "state_name": "South Dakota",
     "semester": "0619",
-    "snap_chan_t": "-.5527440672136841"
+    "wic_chan": -1.673840267814442
   },
   {
     "state_name": "South Dakota",
     "semester": "0918",
-    "snap_chan_t": -3.328168866418924
+    "wic_chan": "-.8464867617107963"
   },
   {
     "state_name": "South Dakota",
     "semester": 1218,
-    "snap_chan_t": -1.756922854457377
-  },
-  {
-    "state_name": "Tennessee",
-    "semester": "0318",
-    "snap_chan_t": -2.471908537982903
+    "wic_chan": -3.04255728865781
   },
   {
     "state_name": "Tennessee",
     "semester": "0319",
-    "snap_chan_t": -2.148009434881437
+    "wic_chan": -2.497527200791294
   },
   {
     "state_name": "Tennessee",
     "semester": "0618",
-    "snap_chan_t": -3.680952004671356
+    "wic_chan": ".3456275744519566"
   },
   {
     "state_name": "Tennessee",
     "semester": "0619",
-    "snap_chan_t": -3.184964969543258
+    "wic_chan": -3.423788993152421
   },
   {
     "state_name": "Tennessee",
     "semester": "0918",
-    "snap_chan_t": "-.8730209465362515"
+    "wic_chan": -3.937435123148059
   },
   {
     "state_name": "Tennessee",
     "semester": 1218,
-    "snap_chan_t": -1.807314383492442
-  },
-  {
-    "state_name": "Texas",
-    "semester": "0318",
-    "snap_chan_t": -2.959608115720092
+    "wic_chan": -6.125723454243315
   },
   {
     "state_name": "Texas",
     "semester": "0319",
-    "snap_chan_t": -5.703572667947554
+    "wic_chan": "-.8518667166254712"
   },
   {
     "state_name": "Texas",
     "semester": "0618",
-    "snap_chan_t": -2.464905919487681
+    "wic_chan": -4.462794727721475
   },
   {
     "state_name": "Texas",
     "semester": "0619",
-    "snap_chan_t": "-.0844340881537398"
+    "wic_chan": 1.355996002814153
   },
   {
     "state_name": "Texas",
     "semester": "0918",
-    "snap_chan_t": "-.464587081135992"
+    "wic_chan": -1.962277010852986
   },
   {
     "state_name": "Texas",
     "semester": 1218,
-    "snap_chan_t": -2.945986818145485
-  },
-  {
-    "state_name": "Utah",
-    "semester": "0318",
-    "snap_chan_t": "-.6559307502401635"
+    "wic_chan": -5.101156920075245
   },
   {
     "state_name": "Utah",
     "semester": "0319",
-    "snap_chan_t": -1.448721531766362
+    "wic_chan": -1.879503919398195
   },
   {
     "state_name": "Utah",
     "semester": "0618",
-    "snap_chan_t": -3.395928213446464
+    "wic_chan": -4.364295788837391
   },
   {
     "state_name": "Utah",
     "semester": "0619",
-    "snap_chan_t": -1.878613553102948
+    "wic_chan": -2.143432715551974
   },
   {
     "state_name": "Utah",
     "semester": "0918",
-    "snap_chan_t": -3.112756705558184
+    "wic_chan": -2.559834822181017
   },
   {
     "state_name": "Utah",
     "semester": 1218,
-    "snap_chan_t": -3.246645040881624
-  },
-  {
-    "state_name": "Vermont",
-    "semester": "0318",
-    "snap_chan_t": -1.997606064636259
+    "wic_chan": -3.695215031676358
   },
   {
     "state_name": "Vermont",
     "semester": "0319",
-    "snap_chan_t": -41.36961466473061
+    "wic_chan": -1.267382503080439
   },
   {
     "state_name": "Vermont",
     "semester": "0618",
-    "snap_chan_t": -2.909564650960805
+    "wic_chan": 2.041540919581042
   },
   {
     "state_name": "Vermont",
     "semester": "0619",
-    "snap_chan_t": -3.218140693446336
+    "wic_chan": ".8379390265644604"
   },
   {
     "state_name": "Vermont",
     "semester": "0918",
-    "snap_chan_t": -1.291512915129156
+    "wic_chan": ".9568545581071675"
   },
   {
     "state_name": "Vermont",
     "semester": 1218,
-    "snap_chan_t": 1.237609742282642
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": "0318",
-    "snap_chan_t": 2.32533633074572
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": "0319",
-    "snap_chan_t": -12.80221796387654
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": "0618",
-    "snap_chan_t": -2.825169063883837
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": "0619",
-    "snap_chan_t": -1.346612428110538
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": "0918",
-    "snap_chan_t": 2.207856436343092
-  },
-  {
-    "state_name": "Virgin Islands",
-    "semester": 1218,
-    "snap_chan_t": -11.30542978605744
-  },
-  {
-    "state_name": "Virginia",
-    "semester": "0318",
-    "snap_chan_t": "-.9423589754618433"
+    "wic_chan": -2.197139410649662
   },
   {
     "state_name": "Virginia",
     "semester": "0319",
-    "snap_chan_t": "-.6367945470767022"
+    "wic_chan": ".5132393477312647"
   },
   {
     "state_name": "Virginia",
     "semester": "0618",
-    "snap_chan_t": -1.040065239839183
+    "wic_chan": "-.5451387342448655"
   },
   {
     "state_name": "Virginia",
     "semester": "0619",
-    "snap_chan_t": "-.6461240359559861"
+    "wic_chan": 1.033240997229923
   },
   {
     "state_name": "Virginia",
     "semester": "0918",
-    "snap_chan_t": -1.353200568209867
+    "wic_chan": 1.474210276481602
   },
   {
     "state_name": "Virginia",
     "semester": 1218,
-    "snap_chan_t": -1.128101201074727
-  },
-  {
-    "state_name": "Washington",
-    "semester": "0318",
-    "snap_chan_t": "-.6319028702512219"
+    "wic_chan": -5.295721939293374
   },
   {
     "state_name": "Washington",
     "semester": "0319",
-    "snap_chan_t": -49.64233295461749
+    "wic_chan": -3.026842651638739
   },
   {
     "state_name": "Washington",
     "semester": "0618",
-    "snap_chan_t": -2.359113651643063
+    "wic_chan": -2.141639802057449
   },
   {
     "state_name": "Washington",
     "semester": "0619",
-    "snap_chan_t": -1.481026018417209
+    "wic_chan": -1.747235773601064
   },
   {
     "state_name": "Washington",
     "semester": "0918",
-    "snap_chan_t": -1.882466374643332
+    "wic_chan": -3.003343265209057
   },
   {
     "state_name": "Washington",
     "semester": 1218,
-    "snap_chan_t": -1.012892426757195
-  },
-  {
-    "state_name": "West Virginia",
-    "semester": "0318",
-    "snap_chan_t": -1.075667769522537
+    "wic_chan": -4.219065474473604
   },
   {
     "state_name": "West Virginia",
     "semester": "0319",
-    "snap_chan_t": -3.344775539577505
+    "wic_chan": "-.4880778437529099"
   },
   {
     "state_name": "West Virginia",
     "semester": "0618",
-    "snap_chan_t": -2.124513739286771
+    "wic_chan": -2.339925869337633
   },
   {
     "state_name": "West Virginia",
     "semester": "0619",
-    "snap_chan_t": ".2658645704985974"
+    "wic_chan": 1.793189628241176
   },
   {
     "state_name": "West Virginia",
     "semester": "0918",
-    "snap_chan_t": "-.1117934133727738"
+    "wic_chan": -2.057017035577702
   },
   {
     "state_name": "West Virginia",
     "semester": 1218,
-    "snap_chan_t": -3.151473646832037
-  },
-  {
-    "state_name": "Wisconsin",
-    "semester": "0318",
-    "snap_chan_t": -1.051165661720976
+    "wic_chan": -5.244631130568534
   },
   {
     "state_name": "Wisconsin",
     "semester": "0319",
-    "snap_chan_t": -2.192990124630245
+    "wic_chan": -2.232639167459394
   },
   {
     "state_name": "Wisconsin",
     "semester": "0618",
-    "snap_chan_t": -2.104580871623918
+    "wic_chan": "-.7503017517914823"
   },
   {
     "state_name": "Wisconsin",
     "semester": "0619",
-    "snap_chan_t": "-.7550248316388841"
+    "wic_chan": 1.366892137439479
   },
   {
     "state_name": "Wisconsin",
     "semester": "0918",
-    "snap_chan_t": "-.9037909484131967"
+    "wic_chan": "-.0372508847085173"
   },
   {
     "state_name": "Wisconsin",
     "semester": 1218,
-    "snap_chan_t": -1.905782121941202
-  },
-  {
-    "state_name": "Wyoming",
-    "semester": "0318",
-    "snap_chan_t": -1.106144157666333
+    "wic_chan": -3.337388616709958
   },
   {
     "state_name": "Wyoming",
     "semester": "0319",
-    "snap_chan_t": -5.487521867971012
+    "wic_chan": -2.405938059892498
   },
   {
     "state_name": "Wyoming",
     "semester": "0618",
-    "snap_chan_t": -5.335225023096212
+    "wic_chan": -2.946954813359526
   },
   {
     "state_name": "Wyoming",
     "semester": "0619",
-    "snap_chan_t": -2.39498337866425
+    "wic_chan": -2.963545764489905
   },
   {
     "state_name": "Wyoming",
     "semester": "0918",
-    "snap_chan_t": -5.939144679516229
+    "wic_chan": -5.334603477018341
   },
   {
     "state_name": "Wyoming",
     "semester": 1218,
-    "snap_chan_t": 1.000481713417578
+    "wic_chan": -2.52830188679245
   }
 ]
