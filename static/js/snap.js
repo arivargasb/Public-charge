@@ -193,7 +193,7 @@ var overlayMaps = {
 };
 
 var myMap = L.map("map", {
-  center:[38, -95],
+  center:[39, -95],
   zoom:4,
   layers: [streetmap, snap_0918]
 });
