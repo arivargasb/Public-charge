@@ -187,8 +187,8 @@ var baseMaps = {
 var overlayMaps = {
   "Q3 2018": Medicaid_0918,
   "Q4 2018": Medicaid_1218,
-  "Q1 2019": Medicaid_0319,
-  "Q2 2019": Medicaid_0519,
+  "Q1 2019": Medicaid_0319
+  // "Q2 2019": Medicaid_0519,
 };
 
 var myMap = L.map("map", {
