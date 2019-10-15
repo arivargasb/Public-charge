@@ -14,10 +14,6 @@ function getColor(change) {
 
 // Create an array that holds data for change in state quarterly enrollment
 var json = "data/clean/SNAP_state_clean.json";
-
-
-
-
 var geojson = "data/geojson/gz_2010_us_040_00_5m.json";
 
 
