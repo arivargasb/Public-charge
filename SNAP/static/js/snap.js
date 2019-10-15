@@ -2,7 +2,7 @@
 // Create a function to change the color based on enrollment change
 var change = ""
 function getColor(change) {
-    return change < -10  ? '#4B000F' :
+    return change < -7.5  ? '#4B000F' :
     change < -5  ? '#fb350d' :       
     change < -2.5  ? '#fc5f3f' :
     change < -1  ? '#FD8D3C':
@@ -214,7 +214,7 @@ var populationLegend = L.control({position: 'bottomleft'});
 populationLegend.onAdd = function (map) {
 var div = L.DomUtil.create('div', 'info legend');
   div.innerHTML +=
-  '<h3><strong><center>SNAP beneficiaries</center></strong></h3>';
+  '<h3><strong><center>Change in SNAP beneficiaries</center></strong></h3>';
 return div;
 };
 populationLegend.addTo(myMap);
@@ -223,7 +223,7 @@ populationLegend.addTo(myMap);
 var legend = L.control({position: 'bottomright'});
 legend.onAdd = function (map) {
 var div = L.DomUtil.create('div', 'info legend'),
-  snap = [-50, -10, -5 , -2.5, -1, -0.5,  0],
+  snap = [-10, -7.5, -5 , -2.5, -1, -0.5,  0],
   labels = [];
   for (var i = 0; i < snap.length; i++) {
   snap[i] = snap[i].toFixed(1); 

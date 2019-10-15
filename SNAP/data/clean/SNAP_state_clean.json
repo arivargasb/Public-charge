@@ -247,7 +247,7 @@
   {
     "state_name": "District of Columbia",
     "semester": "0319",
-    "snap_chan_t": -90.64701587881
+    "snap_chan_t": 3.087546332010005
   },
   {
     "state_name": "District of Columbia",
@@ -637,7 +637,7 @@
   {
     "state_name": "Michigan",
     "semester": "0319",
-    "snap_chan_t": -48.62581283321872
+    "snap_chan_t": -1.349515057127915
   },
   {
     "state_name": "Michigan",
@@ -1327,7 +1327,7 @@
   {
     "state_name": "Vermont",
     "semester": "0319",
-    "snap_chan_t": -41.36961466473061
+    "snap_chan_t": -2.293898788709547
   },
   {
     "state_name": "Vermont",
@@ -1417,7 +1417,7 @@
   {
     "state_name": "Washington",
     "semester": "0319",
-    "snap_chan_t": -49.64233295461749
+    "snap_chan_t": -1.891784376243155
   },
   {
     "state_name": "Washington",

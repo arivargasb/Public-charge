@@ -213,7 +213,7 @@ var populationLegend = L.control({position: 'bottomleft'});
 populationLegend.onAdd = function (map) {
 var div = L.DomUtil.create('div', 'info legend');
   div.innerHTML +=
-  '<h3><strong><center>WIC beneficiaries</center></strong></h3>';
+  '<h3><strong><center>Change in WIC beneficiaries</center></strong></h3>';
 return div;
 };
 populationLegend.addTo(myMap);
