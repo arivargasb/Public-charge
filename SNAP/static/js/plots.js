@@ -46,7 +46,7 @@ setTimeout(function(){
   };
 
   var array_line = {
-    x: [0, 3, 6, 9, 12],
+    x: [0.73, 3, 6, 9, 12],
     y: [-1.8, -2.52, -3.24, -3.96, -4.68 ],
     mode: "lines",
     type: "line",
