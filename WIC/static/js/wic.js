@@ -164,7 +164,6 @@ d3.json(geojson, function(data) {
     });
 
 
-
 setTimeout(function(){
 
 var WIC_0918 = L.layerGroup(layer_0918);
@@ -194,7 +193,7 @@ var overlayMaps = {
 var myMap = L.map("map", {
   center:[39, -95],
   zoom:4,
-  layers: [streetmap, WIC_0918]
+  layers: [streetmap, WIC_1218]
 });
 
 

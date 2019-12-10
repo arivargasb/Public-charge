@@ -195,7 +195,7 @@ var overlayMaps = {
 var myMap = L.map("map", {
   center:[39, -95],
   zoom:4,
-  layers: [streetmap, snap_0918]
+  layers: [streetmap, snap_1218]
 });
 
 

@@ -194,7 +194,7 @@ var overlayMaps = {
 var myMap = L.map("map", {
   center:[39, -95],
   zoom:4,
-  layers: [streetmap, Medicaid_0918]
+  layers: [streetmap, Medicaid_1218]
 });
 
 
