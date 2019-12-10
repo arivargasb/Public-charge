@@ -46,8 +46,8 @@ setTimeout(function(){
   };
 
   var array_line = {
-    x: [0.73, 3, 6, 9, 12],
-    y: [-1.8, -2.52, -3.24, -3.96, -4.68 ],
+    x: [0.73, 3, 6, 9, 12, 13],
+    y: [-1.8, -2.52, -3.24, -3.96, -4.68 , -4.93],
     mode: "lines",
     type: "line",
     name: "Fitted values",
